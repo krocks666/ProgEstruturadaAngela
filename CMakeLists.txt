@@ -1,7 +1,6 @@
 cmake_minimum_required(VERSION 3.29)
-project(ProgEstruturadaAngela)
+project(untitled C)
 
-set(CMAKE_CXX_STANDARD 14)
+set(CMAKE_C_STANDARD 11)
 
-add_executable(ProgEstruturadaAngela
-    main.cpp)
+add_executable(untitled main.c)
