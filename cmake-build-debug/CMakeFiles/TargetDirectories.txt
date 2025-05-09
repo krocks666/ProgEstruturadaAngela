@@ -1,0 +1,3 @@
+C:/Users/202502931522/CLionProjects/untitled/ProgEstruturadaAngela/cmake-build-debug/CMakeFiles/ProgEstruturadaAngela.dir
+C:/Users/202502931522/CLionProjects/untitled/ProgEstruturadaAngela/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/202502931522/CLionProjects/untitled/ProgEstruturadaAngela/cmake-build-debug/CMakeFiles/rebuild_cache.dir
